@@ -5,13 +5,9 @@
 <% @articles.each do |article| %>
 <div>
   <h3><%= article.title %></h3>
-  <p><%= article.body %></p>
-  <p>
-    Created At: <span><%= article.created_at %></span>
-  </p>
-  <p>
-    Updated At: <span><%= article.updated_at %></span>
-  </p>
+  <a href="/articles/<%= article.id %>">
+    Click Me!
+  </a>
   <hr>
 </div>
 <% end %>
