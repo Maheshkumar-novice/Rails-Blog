@@ -1,24 +1,41 @@
-# README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# [Title](#)
 
-Things you may want to cover:
+<details open="open">
+  <summary>Table Of Contents</summary>
+  <ol>
+    <li>
+      <a href="#description">Description</a>
+    </li>
+    <li>
+      <a href="#demo">Demo</a>
+    </li>
+    <li>
+      <a href="#built-with">Built With</a>
+    </li>
+     <li>
+      <a href="#what-i-learned">What I Learned</a>
+    </li>
+     <li>
+      <a href="#acknowledgements">Acknowledgements</a>
+    </li>
+  </ol>
+</details>
 
-* Ruby version
+## Description
+<Description> 
 
-* System dependencies
+## Demo
+<!-- ![Example](./assets/example.gif) -->
+</br>
+  
+## Built With
+* <Thing>
 
-* Configuration
+## What I Learned
+* <What>
+  
+## Acknowledgements
+* <Ack>
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+[Move To Top](#title)
