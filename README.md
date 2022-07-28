@@ -25,7 +25,16 @@
 A code along simple `Rails` Blog application to get used to `Rails` conventions and environment. I done this as part of [The Odin Project](https://theodinproject.com)'s Ruby On Rails curriculum. I don't know why but I love learning Ruby and Rails. But that doesn't mean I don't like other languages and frameworks. I love them too. But Ruby and Rails are special to me.
 
 ## Demo
-<!-- ![Example](./assets/example.gif) -->
+<details>
+  <summary>Here are some sample images of the App (CRUD)</summary>
+  <img src="images/0.png">
+  <img src="images/1.png">
+  <img src="images/2.png">
+  <img src="images/3.png">
+  <img src="images/4.png">
+  <img src="images/5.png">
+  <img src="images/6.png">
+</details>
 </br>
   
 ## Built With
