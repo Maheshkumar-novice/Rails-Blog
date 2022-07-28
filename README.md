@@ -12,6 +12,9 @@
     <li>
       <a href="#built-with">Built With</a>
     </li>
+    <li>
+      <a href="#commands">Commands</a>
+    </li>
      <li>
       <a href="#what-i-learned">What I Learned</a>
     </li>
@@ -40,6 +43,21 @@ A code along simple `Rails` Blog application to get used to `Rails` conventions 
 ## Built With
 * Rails 7.0.3.1
 * Ruby 3.1.2
+
+## Commands
+Here are few `Rails` related commands
+* `rails new <app-name>`
+* `rails new --help`
+* `rails server` alias `rails s`
+* `rails generate <options>` alias `rails g <options>`
+* `rails g controller <controller-name (plural)> <actions> <--skip-routes>`
+* `rails routes <-c(controller)/-g(grep) (localhost:3000/rails/info)>`
+* `rails g model <model-name (singular)> <field:datatype (multiple)>`
+* `rails db`
+* `rails db:migrate`
+* `rails console` alias `rails c`
+* `rails g migration <Name (e.g. AddStatusToArticles(auto detect table name as articles)> <changes>`
+* We can also use `bin/rails`
 
 ## What I Learned
 * Rails generators (commands) like `rails g model/controller` 
